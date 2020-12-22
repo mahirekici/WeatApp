@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  MWeatApp
+
+  Created by mahir ekici -- 
+  .
+*/
+
+"welcomeTitle" = "Hava Durumu ";
+"placeholder" =  "Şehir Seç";
+
+"inAppTitleError" = "Hata!";
+"inAppButtonError" = "Tamam";
+"inAppGenericError" = "Bir sorun meydana geldi. İnternetinizin var olduğundan emin olunuz!";
+"inAppNoInternet" = "İnternet bağlantınız yok.";
+"inAppNoLocation" = "Konumunuzu kullanmaya çalışırken bir sorun oluştu.";
+
+

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='weatherAppTests.xctest' tests='2' failures='0'>
+  <testsuite name='weatherAppTests.weatherAppTests' tests='2' failures='0'>
+    <testcase classname='weatherAppTests.weatherAppTests' name='testExample' time='0.002'/>
+    <testcase classname='weatherAppTests.weatherAppTests' name='testPerformanceExample' time='0.276'/>
+  </testsuite>
+</testsuites>

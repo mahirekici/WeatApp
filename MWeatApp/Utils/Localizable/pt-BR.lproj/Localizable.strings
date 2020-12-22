@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MWeatApp
+
+  Created by mahir ekici -- on 08/07/20.
+  .
+*/
+
+"welcomeTitle" = " 🌤 Tempo ";
+"placeholder" =  "Procure por uma cidade";
+
+"inAppTitleError" = "Erro!";
+"inAppButtonError" = "Tente Novamente";
+"inAppGenericError" = "Ops, um error aconteceu!";
+"inAppNoInternet" = "Sem conexão com a internet.";
+"inAppNoLocation" = "Ocorreu um problema quando tentamos usar sua localização.";
+

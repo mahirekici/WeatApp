@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  MWeatApp
+
+  Created by mahir ekici -- 
+  .
+*/
+
+"welcomeTitle" = "Weather Application ";
+"placeholder" =  "Search for a City";
+
+"inAppTitleError" = "Error!";
+"inAppButtonError" = "Ok";
+"inAppGenericError" = "Oops, an error happened!";
+"inAppNoInternet" = "No internet connection.";
+"inAppNoLocation" = "There was a problem when we tried to use your location.";
+
+
